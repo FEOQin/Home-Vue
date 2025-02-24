@@ -13,7 +13,7 @@
         </div>
         <div class="github-info">
           <h3>博客地址</h3>
-          <a href="https://nblog.qbobo.eu.org" target="_blank" class="blog-link">
+          <a href="https://nblog.qbobo.eu.org" target="_blank" class="github-link">
             <i class="fas fa-blog"></i> Mystery Q'Blog
           </a>
         </div>
