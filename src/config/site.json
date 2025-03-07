@@ -24,4 +24,9 @@
     "url": "https://uptime.qbobo.eu.org/",
     "icon": "fa fa-chart-line"
   }
+  {
+    "name": "备用监测",
+    "url": "https://uptime.qbobo.eu.org/",
+    "icon": "fa fa-heart-pulse "
+  }
 ]
