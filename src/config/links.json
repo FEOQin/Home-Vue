@@ -14,7 +14,7 @@
   {
     "type": "Flist",
     "icon": "fas fa-file-arrow-down ",
-    "qrCode": "https://flist.qbobo.eu.org",
+    "url": "https://flist.qbobo.eu.org",
     "hoverColor": "#007aff"
   },
   {
