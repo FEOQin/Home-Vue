@@ -2,7 +2,7 @@
   {
     "type": "Email",
     "icon": "fas fa-envelope",
-    "url": "mailto:i@ruom.top",
+    "url": "mailto:oicu@linux.do",
     "hoverColor": "#e78b0a"
   },
   {
@@ -12,9 +12,9 @@
     "hoverColor": "#6500fc"
   },
   {
-    "type": "支付宝",
-    "icon": "fab fa-alipay",
-    "qrCode": "https://lib.bsgun.cn/Hexo-static/img/zfbzf.avif",
+    "type": "Flist",
+    "icon": "fab fa-file-arrow-down ",
+    "qrCode": "https://flist.qbobo.eu.org",
     "hoverColor": "#007aff"
   },
   {
